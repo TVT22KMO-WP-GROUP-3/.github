@@ -1,4 +1,4 @@
-Ryhmän 3 organisaatiosivu
+# Ryhmän 3 organisaatiosivu
 ## Jäsenet  
 t1rate01 - Tero Rantanen  
 saattaja - Janita Kaikkonen  
